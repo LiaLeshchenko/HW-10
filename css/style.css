@@ -1,7 +1,16 @@
+:root {
+    --blue-color:rgb(33, 150, 243);
+    --blak-color:rgb(0, 0, 0);
+    --grey-color:rgb(117, 117, 117);
+    --white-color:rgb(255, 255, 255);
+    --address-color:rgba(255, 255, 255, 0.6);
+    --next-blak-color:rgb(33, 33, 33);
+}
 body {
     font-family: "Roboto", sans-serif;
     font-size: 14px;
     color:  rgb(33, 33, 33);
+    line-height: (24 / 16);
 }
 .span {
     color: rgb(33, 150, 243);
@@ -102,10 +111,19 @@ body {
     font-size: 26px;
     line-height: 31px;
 }
+:root {
+    --blue-color:rgb(33, 150, 243);
+    --blak-color:rgb(0, 0, 0);
+    --grey-color:rgb(117, 117, 117);
+    --white-color:rgb(255, 255, 255);
+    --address-color:rgba(255, 255, 255, 0.6);
+    --next-blak-color:rgb(33, 33, 33);
+}
 .body {
     font-family: Roboto;
     font-size: 14px;
     color: rgb(33, 33, 33);
+    line-height: (24 / 16);
 }
 .header-Web {
     color: rgb(33, 150, 243);
