@@ -130,13 +130,13 @@ body {
     font-weight: 500;
     line-height: 16px;
 }
-.post-item {
+.portfolio-filter-button {
     background: rgb(33, 150, 243);
     color: var(--white-color);
     font-weight: 500;
     line-height: 26px;
 }
-.post-item2 {
+.filter-button {
     color: var(--next-blak-color);
     background: rgb(245, 244, 250);
     font-weight: 500;
@@ -147,13 +147,13 @@ body {
     font-size: 40px;
     line-height: 31px;
 }
-.list-title2 {
+.portfolio-list-title {
     color: var(--next-blak-color);
     font-size: 18px;
     font-weight: 700;
     line-height: 36px;
 }
-.list-text {
+.portfolio-list-text {
     color: var(--grey-color);
     font-size: 16px;
     font-weight: 400;
