@@ -72,6 +72,11 @@ body {
     font-weight: 700;
     line-height: 42px;
 }
+.ourteam-title {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 42px;
+}
 .ourteam {
     background-color: rgb(245, 244, 250);
 }
@@ -86,12 +91,12 @@ body {
     font-weight: 400;
     line-height: 19px;
 }
-.footer-contact-item3 {
+.footer-contact1 {
     font-weight: 400;
     line-height: 24px;
     color: var(--white-color);
 }
-.footer-contact-item4 {
+.footer-contact2 {
     color: var(--address-color);
     font-weight: 400;
     line-height: 24px;
@@ -100,6 +105,13 @@ body {
     background-color:  rgb(47, 48, 58);
 }
 .footer-Web {
+    color: var(--blue-color);
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+}
+.header-Web {
     color: var(--blue-color);
     font-family: Raleway;
     font-weight: 700;
@@ -166,10 +178,5 @@ body {
     font-size: 26px;
     line-height: 31px;
 }
-.footer-contact1 {
-    color: var(--white-color);
-}
-.footer-contact2{
-    color: var(--address-color);
-}
+
 
